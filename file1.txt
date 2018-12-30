@@ -3,3 +3,5 @@ bat
 cat
 dog
 elephant
+fan
+gun
