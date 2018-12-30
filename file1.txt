@@ -9,4 +9,5 @@ hen
 ink
 jug
 kit
+loin
 monkey
