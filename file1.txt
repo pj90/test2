@@ -8,3 +8,5 @@ gun
 hen
 ink
 jug
+kit
+loin
