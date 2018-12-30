@@ -10,4 +10,4 @@ ink
 jug
 kit
 loin
-monkeynight
+monkey
