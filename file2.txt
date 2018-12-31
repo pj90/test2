@@ -11,7 +11,10 @@ ten
 elevenk
 twelve
 thirteen
+<<<<<<< HEAD
 fourteen
 fifteen
 sixteen
 seventeen
+=======
+>>>>>>> 2da2eee... added 'thirteen'
