@@ -11,3 +11,14 @@ ten
 elevenk
 twelve
 thirteen
+<<<<<<< HEAD
+<<<<<<< HEAD
+fourteen
+=======
+>>>>>>> 255b7d2... added 'fifteen to seventeen'
+fifteen
+sixteen
+seventeen
+=======
+forteen
+>>>>>>> ab9f45c... added 'forteen'
