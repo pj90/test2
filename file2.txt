@@ -16,6 +16,3 @@ fifteen
 sixteen
 seventeen
 fourteen
-fifteen
-sixteen
-seventeen
