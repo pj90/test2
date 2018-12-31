@@ -11,4 +11,7 @@ ten
 elevenk
 twelve
 thirteen
-forteen
+fourteen
+fifteen
+sixteen
+seventeen
