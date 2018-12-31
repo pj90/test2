@@ -8,4 +8,10 @@ seven
 eight
 nine
 ten
-eleven
+elevenk
+twelve
+thirteen
+fourteen
+fifteen
+sixteen
+seventeen
