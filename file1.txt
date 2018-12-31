@@ -20,3 +20,4 @@ sun
 ten
 umbrella
 watch
+yak
