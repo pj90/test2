@@ -25,3 +25,6 @@ twentyfour
 twentyfive
 twentysix
 twentyseven
+twentyeight
+twentynine
+thirty
