@@ -28,3 +28,6 @@ twentyseven
 twentyeight
 twentynine
 thirty
+thirtyone
+thirtytwo
+thirtythree
