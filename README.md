@@ -14,5 +14,5 @@ druvhaa.gwl@gmail.com
 # Forks:
 Total- 3
 
-1- dru18 - dru41821@gmail.com
-2- pjs99 - pankajjsharma.gwl@gmail.com
+1- dru18 - https://github.com/dru18/test2.git 
+2- pjs99 - https://github.com/pjs99/test2.git 
