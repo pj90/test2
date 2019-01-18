@@ -37,6 +37,7 @@ thirtysix
 thirtyseven
 thirtyeight
 thirtynine
+fourty
 fourtyone
 fourtytwo
 fourtythree
