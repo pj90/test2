@@ -33,3 +33,13 @@ thirtytwo
 thirtythree
 thirtyfour
 thirtyfive
+thirtysix
+thirtyseven
+thirtyeight
+thirtynine
+fourty
+fourtyone
+fourtytwo
+fourtythree
+fourtyfour
+fourtyfive
