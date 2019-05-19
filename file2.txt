@@ -47,3 +47,5 @@ fourtysix
 fourtyseven
 fourtynine
 fifty
+fiftyone
+fiftytwo
