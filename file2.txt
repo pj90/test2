@@ -58,3 +58,5 @@ fiftyseven
 fiftyeight
 fiftynine
 sixty
+sixtyone
+sixtytwo
