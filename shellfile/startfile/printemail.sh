@@ -1,1 +1,0 @@
-cd ~/git$USER/test2 && echo '==========' && git config -l | grep '.email' && echo '============' && cd ~/git$USER/test2 && echo '===============' && git config -l | grep '.email' && echo '============='
