@@ -45,6 +45,7 @@ fourtyfour
 fourtyfive
 fourtysix
 fourtyseven
+fourtyeight
 fourtynine
 fifty
 fiftyone
