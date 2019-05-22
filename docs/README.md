@@ -1,4 +1,4 @@
-# test2
+# Lets Git Together
 
 
 # Pracice your git and github exercises here.
