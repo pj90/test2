@@ -28,6 +28,6 @@ Push your scripts for git commands.
 
 # Push your entry one at a time to practice more and more.
 
-# Clone address : https://github.com/dru18/test2.git
+Clone address : https://github.com/dru18/test2.git
 
 # Good Luck
