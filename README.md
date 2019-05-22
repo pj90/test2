@@ -1,7 +1,7 @@
 # Lets Git Together
 
 
-# Pracice your git and GitHub exercises here.
+# Pracice your Git and GitHub exercises here.
 
 
 There are two branches master and scripts.
@@ -15,16 +15,16 @@ There are one file (printemail.sh) in the scripts branch.
 
 'file2.txt' gets numbers in words.
 
-'scripts' branch gets the 'scripts' and 'alias' for git commands.
+'scripts' branch gets the 'scripts' and 'alias' for Git commands.
 
 
-All files are publicly open to practive there git and GitHub exercises.
+All files are publicly open to practive there Git and GitHub exercises.
 
 Append your words for any alphabet just in that row in the 'file1.txt'.
 
 Append your numbers in words in 'file2.txt'.
 
-Push your scripts for git commands.
+Push your scripts for Git commands.
 
 # Push your changes one at a time to practice more and more.
 
