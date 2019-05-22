@@ -20,14 +20,18 @@ There are one file (printemail.sh) in the scripts branch.
 
 All files are publicly open to practive there Git and GitHub exercises.
 
+
 Append your words for any alphabet just in that row in the 'file1.txt'.
 
 Append your numbers in words in 'file2.txt'.
 
-Push your scripts for Git commands.
+Push your scripts for Git commands into 'scripts' branch.
+
 
 # Push your changes one at a time to practice more and more.
 
+
 Clone address : https://github.com/dru18/test2.git
+
 
 # Good Luck
