@@ -1,1 +1,5 @@
-ramdom scripts for git
+# Show your scripts
+
+Add your scripts for git commands to 'scripts' branch.
+ 
+Good Luck
