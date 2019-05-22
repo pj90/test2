@@ -20,7 +20,12 @@ There are one file (printemail.sh) in the scripts branch.
 
 All files are publicly open to practive there git and github exercises.
 
-Append your words at any place one at a time at any place in the 'file1.txt' to practice more and more.
-Append your numbers in words in 'file2.txt' one at a time to practice more and more.
+Append your words for any alphabet just in that row in the 'file1.txt'.
+
+Append your numbers in words in 'file2.txt'.
+
+Push your scripts for git commands.
+
+# Push your entry one at a time to practice more and more.
 
 # Good Luck
