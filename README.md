@@ -1,14 +1,14 @@
 # Lets Git Together
 
 
-# Pracice your Git and GitHub exercises here.
+# Practice your Git and GitHub exercises here.
 
 
 There are two branches 'master' and 'scripts'.
 
 There are two files 'file1.txt' and 'file2.txt' in the master branch.
 
-There is one sample script for git commands 'printemail.sh' in the 'scripts' branch.
+There is one sample script 'printemail.sh' for Git commands in the 'scripts' branch.
 
 
 'file1.txt' gets words for 'a' to 'z'.
@@ -18,7 +18,7 @@ There is one sample script for git commands 'printemail.sh' in the 'scripts' bra
 'scripts' branch gets the  for Git commands.
 
 
-# All files are publicly open to practive their Git and GitHub exercises.
+# All files are publicly open to practice your Git and GitHub exercises.
 
 
 # On 'master' branch :
