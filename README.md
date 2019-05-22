@@ -1,7 +1,7 @@
 # Lets Git Together
 
 
-# Pracice your git and github exercises here.
+# Pracice your git and GitHub exercises here.
 
 
 There are two branches master and scripts.
@@ -18,7 +18,7 @@ There are one file (printemail.sh) in the scripts branch.
 'scripts' branch gets the 'scripts' and 'alias' for git commands.
 
 
-All files are publicly open to practive there git and github exercises.
+All files are publicly open to practive there git and GitHub exercises.
 
 Append your words for any alphabet just in that row in the 'file1.txt'.
 
