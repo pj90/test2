@@ -1,9 +1,26 @@
 # test2
-There are two files file1.txt and file2.txt. file1.txt have been declared as completed and file2.txt is still under modification. file2.txt has numbers in words like 'one', 'two', 'three'...'thirtythree' and it seems to be unstopable file to modify. Everyone can append the rest of the numbers in words or correct their order and spellings and so on.
 
-# Current Activity:
-Updating file2.txt.
 
-# Upstremer:
-pj90
-druvhaa.gwl@gmail.com
+# Pracice your git and github exercises here.
+
+
+There are two branches master and shells.
+
+There are two files (file1.txt and file2.txt) in the master branch.
+
+There are one file (printemail.sh) in the shells branch.
+
+
+'file1.txt' gets words for 'a' to 'z'.
+
+'file2.txt' gets numbers in words.
+
+'shells' branch gets the 'scripts' and 'alias' for git commands.
+
+
+All files are publicly open to practive there git and github exercises.
+
+Append your words at any place one at a time at any place in the 'file1.txt' to practice more and more.
+Append your numbers in words in 'file2.txt' one at a time to practice more and more.
+
+# Good Luck
