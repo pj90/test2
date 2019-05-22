@@ -18,7 +18,7 @@ There is one sample script for git commands 'printemail.sh' in the 'scripts' bra
 'scripts' branch gets the  for Git commands.
 
 
-# All files are publicly open to practive there Git and GitHub exercises.
+# All files are publicly open to practive their Git and GitHub exercises.
 
 
 # On 'master' branch :
