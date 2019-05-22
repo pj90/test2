@@ -8,7 +8,7 @@ There are two branches 'master' and 'scripts'.
 
 There are two files 'file1.txt' and 'file2.txt' in the master branch.
 
-There is one sample script for git commands 'printemail.sh' in the 'scripts' branch.
+There is one sample script 'printemail.sh' for git commands in the 'scripts' branch.
 
 
 'file1.txt' gets words for 'a' to 'z'.
