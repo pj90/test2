@@ -26,7 +26,7 @@ Append your numbers in words in 'file2.txt'.
 
 Push your scripts for git commands.
 
-# Push your entry one at a time to practice more and more.
+# Push your changes one at a time to practice more and more.
 
 Clone address : https://github.com/dru18/test2.git
 
