@@ -1,7 +1,7 @@
 # Lets Git Together
 
 
-# Pracice your Git and GitHub exercises here.
+# Practice your Git and GitHub exercises here.
 
 
 There are two branches 'master' and 'scripts'.
@@ -18,7 +18,7 @@ There is one sample script for git commands 'printemail.sh' in the 'scripts' bra
 'scripts' branch gets the  for Git commands.
 
 
-# All files are publicly open to practive their Git and GitHub exercises.
+# All files are publicly open to practice your Git and GitHub exercises.
 
 
 # On 'master' branch :
