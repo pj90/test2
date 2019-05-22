@@ -4,28 +4,33 @@
 # Pracice your Git and GitHub exercises here.
 
 
-There are two branches master and scripts.
+There are two branches 'master' and 'scripts'.
 
-There are two files (file1.txt and file2.txt) in the master branch.
+There are two files 'file1.txt' and 'file2.txt' in the master branch.
 
-There are one file (printemail.sh) in the scripts branch.
+There is one sample script for git commands 'printemail.sh' in the 'scripts' branch.
 
 
 'file1.txt' gets words for 'a' to 'z'.
 
 'file2.txt' gets numbers in words.
 
-'scripts' branch gets the 'scripts' and 'alias' for Git commands.
+'scripts' branch gets the  for Git commands.
 
 
-All files are publicly open to practive there Git and GitHub exercises.
+# All files are publicly open to practive there Git and GitHub exercises.
 
 
-Append your words for any alphabet just in that row in the 'file1.txt'.
+# On 'master' branch :
 
-Append your numbers in words in 'file2.txt'.
 
-Push your scripts for Git commands into 'scripts' branch.
+Append your words for any alphabet just in that row to the 'file1.txt'.
+
+Append your numbers in words to 'file2.txt'.
+
+
+# On 'scripts' branch :
+Push your scripts and alias for Git commands to 'scripts' branch.
 
 
 # Push your changes one at a time to practice more and more.
