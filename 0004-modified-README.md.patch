@@ -1,0 +1,23 @@
+From 744d2c922f3bbec3ebbcdb1b1237ae5ecc5174b7 Mon Sep 17 00:00:00 2001
+From: dru18 <dru41821@gmail.com>
+Date: Wed, 22 May 2019 09:00:34 +0530
+Subject: [PATCH 4/5] 	modified:   README.md
+
+---
+ README.md | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+diff --git a/README.md b/README.md
+index a6d1a5d..032f315 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,5 @@
+-ramdom scripts for git
++# Show your scripts
++
++Add your scripts for git commands to 'scripts' branch.
++ 
++Good Luck
+-- 
+2.7.4
+
