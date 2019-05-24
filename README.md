@@ -4,7 +4,7 @@
 # Practice your Git and GitHub exercises here.
 
 
-There are two files 'file1.txt' and 'file2.txt' in the master branch.
+There are two files 'word.txt' and 'number.txt' in the master branch.
 
 
 # Getting started
