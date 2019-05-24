@@ -14,10 +14,5 @@ word.txt : Append a new word for any alphabet just after the last word in the ro
 
 number.txt : Append your numbers in words.
 
-### clone it now
-```
-clone https://github.com/pj90/test2.git
-```
-
 
 ## Good Luck
