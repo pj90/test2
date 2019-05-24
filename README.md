@@ -5,7 +5,7 @@
 
 There are two files 'word.txt' and 'number.txt' in the master branch.
 
-'word.txt' has words for alphabets.
+'word.txt' has words for alphabets and
 'number.txt' has numbers in words.
 
 ### Getting started
