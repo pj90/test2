@@ -18,9 +18,6 @@ There is one sample script 'printemail.sh' for Git commands in the 'scripts' bra
 'scripts' branch gets the  for Git commands.
 
 
-# All files are publicly open to practice your Git and GitHub exercises.
-
-
 # On 'master' branch :
 
 
@@ -31,9 +28,6 @@ Append your numbers in words to 'file2.txt'.
 
 # On 'scripts' branch :
 Push your scripts and alias for Git commands to 'scripts' branch.
-
-
-# Push your changes one at a time to practice more and more.
 
 
 Clone address : https://github.com/dru18/test2.git
