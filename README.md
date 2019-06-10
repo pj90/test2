@@ -12,7 +12,7 @@ There are two files 'word.txt' and 'number.txt' in the master branch.
 
 word.txt : Append a new word for any alphabet just after the last word in the row.
 
-number.txt : Append your numbers in words.
+number.txt : Append a new numbers in words.
 
 
 ## Good Luck
