@@ -1,6 +1,5 @@
 # Lets Git Together
 
-
 #### Practice your Git and GitHub exercises here.
 
 ### About:
