@@ -9,7 +9,7 @@
 > 'word.txt' has words for alphabets and
 > 'number.txt' has numbers in words.
 
-### How to contribute:
+### What to do:
 
 > word.txt : Append a new word for any alphabet just after the last word in the row.
 > number.txt : Append a new numbers in words.
