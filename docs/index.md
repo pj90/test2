@@ -12,9 +12,9 @@ There are two files 'word.txt' and 'number.txt' in the master branch.
 
 # What to do:
 
-**word.txt**: Append a new *word* for any alphabet just after the last word in the row.
+Append a new *word* for any alphabet just after the last word in the row to **word.txt**.
 
-**number.txt**: Append *numbers in words.
+Append *numbers in words to **number.txt**.
 
 # Getting started
 
