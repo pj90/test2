@@ -1,7 +1,3 @@
-# Lets Git Together
-
-#### Practice your Git and GitHub exercises with **test2**.
-
 # About:
 
 There are two files 'word.txt' and 'number.txt' in the master branch.
@@ -54,6 +50,6 @@ Append *numbers in words to **number.txt**.
 
 > Result should be something like ***Everything is uptodate.***
 
-Now you are *ready* to do your Git and GitHub exercises on this repo.
+# Now you are *ready* to do your Git and GitHub exercises on this repo.
 
 ## Good Luck
