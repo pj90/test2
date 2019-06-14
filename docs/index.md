@@ -1,6 +1,6 @@
 # Lets Git Together
 
-#### Practice your Git and GitHub exercises here.
+#### Practice your Git and GitHub exercises with **test2**.
 
 # About:
 
