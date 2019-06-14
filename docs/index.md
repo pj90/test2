@@ -14,7 +14,7 @@ Append *numbers in words to **number.txt**.
 
 # Getting started
 
-> Make sure you have *forked* this repository for at your GitHub Account.
+> Make sure you have *forked* this repository for your GitHub Account.
 
 **Now *install* git**
 
