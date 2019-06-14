@@ -4,17 +4,17 @@
 
 # About:
 
-**There are two files 'word.txt' and 'number.txt' in the master branch.**
+There are two files 'word.txt' and 'number.txt' in the master branch.
 
-**'word.txt' has words for alphabets.**
+**word.txt** has words for alphabets.
 
-**'number.txt' has numbers in words.**
+**number.txt** has numbers in words.
 
 # What to do:
 
-**word.txt : Append a new *word* for any alphabet just after the last word in the row.**
+**word.txt**: Append a new *word* for any alphabet just after the last word in the row.
 
-**number.txt : Append *numbers in words*.**
+**number.txt**: Append *numbers in words.
 
 # Getting started
 
