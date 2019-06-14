@@ -50,6 +50,4 @@ Append *numbers in words to **number.txt**.
 
 > Result should be something like ***Everything is uptodate.***
 
-# Now you are *ready* to do your Git and GitHub exercises on this repo.
-
-## Good Luck
+# Good Luck
