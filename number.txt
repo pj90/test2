@@ -67,3 +67,4 @@ sixtysix
 sixtyseven
 sixtyeight
 sixtynine
+seventy
