@@ -38,7 +38,7 @@
 
 - Set your *email* to your config file.
 
-`git config user.name yourEmailId`
+`git config user.email yourEmailId`
 
 > yourUsername and yourEmailId should be match to your github account.
 
