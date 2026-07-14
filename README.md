@@ -53,5 +53,8 @@
 > Result should be something like ***Everything is uptodate.***
 > Now you are *ready* to do your Git and GitHub exercises on this repo.
 
+> Save username and password so it wont ask you agiann at git push command
+
+`git config --global credential.helper store`
 
 ## Good Luck
